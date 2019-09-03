@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/grayscale_example_function.jpg "Grayscale"
 [image2]: ./examples/gaussian_example_function.jpg "Gaussian Smoothing"
 [image3]: ./examples/canny_example_function.jpg "Canny Edge Detection"
-[image4]: ./examples/canny_example_function.jpg "Canny Edge Detection"
+[image4]: ./examples/roi_example_function.jpg "Region of interest"
 [image5]: ./examples/lines_example_function.jpg "Line Segments"
 [image6]: ./examples/weightedLines_example_function.jpg "Weighted image with lines"
 [video1]: ./test_videos_output/solidYellowLeft.mp4 "Solid Yellow Left Video with lines"
